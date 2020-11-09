@@ -1,3 +1,121 @@
+.Map1 {
+  padding: 0;
+  margin-left: 50%;
+  margin-top: 5.5%;
+  position: absolute;
+  transform: rotate(0deg);
+  border: #00c0ff;
+  border-width: 5px;
+}
+
+.Chart1 {
+  padding: 0;
+  margin-left: 13%;
+  margin-top: 15%;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart2 {
+  padding: 0;
+  margin-left: 37%;
+  margin-top: 5%;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart3 {
+  padding: 0;
+  margin-left: 5%;
+  margin-top: 25%;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart4 {
+  padding: 0;
+  margin-left: 63%;
+  margin-top: 25%;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+
+.Chart5 {
+  padding: 0;
+  margin-left: 8%;
+  margin-top: 5%;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart6 {
+  padding: 0;
+  margin-left: 50%;
+  margin-top: 15%;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart7 {
+  padding: 0;
+  margin-left: 8%;
+  margin-top: 25%;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+
+
+
+.ParaText1 {
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+}
+
+
+.LogoText {
+  padding: 0;
+  margin-left: 5.5%;
+  margin-top: 1.5%;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #ffb27e;
+  text-align: left;
+  font-size: 36px;
+  font-family: 'Lato'
+}
+
+.PageTitleText {
+  padding: 0;
+  margin-left: 85%;
+  margin-top: 1.5%;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  text-align: right;
+  font-size: 36px;
+  font-family: 'Lato'
+}
+
+.Logo {
+  padding: 0;
+  margin-left: 2%;
+  margin-top: 2%;
+  position: absolute;
+  height: 1cm;
+  vertical-align: middle
+}
+
 
 .Right_Arrow {
   padding: 0;
@@ -8,6 +126,9 @@
   vertical-align: middle
 }
 
+.Right_Arrow:hover {
+  transform: scale(1.25)
+}
 .Left_Arrow {
   padding: 0;
   margin-top: auto;
@@ -19,12 +140,16 @@
   vertical-align: middle
 }
 
+.Left_Arrow:hover {
+  transform: scale(1.25)
+}
+
 .Left_Text {
   padding: 0;
   margin-left: 4%;
   position: absolute;
   top: 50%;
-  transform: rotate(270deg);
+  transform: rotate(0deg);
   color: #ffb27e;
   text-align: center;
   font-size: 24px;
@@ -33,17 +158,49 @@
 
 .Right_Text {
   padding: 0;
-  margin-left: 91%;
+  margin-left: 90%;
   position: absolute;
   top: 50%;
-  transform: rotate(90deg);
+  transform: rotate(0deg);
   color: #ffb27e;
-  text-align: center;
+  text-align: right;
   font-size: 24px;
   font-family: 'Lato'
 }
 
 
+.navbar {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #122335;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 60%;
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #ffb27e;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: 'Lato'
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  transform: scale(1.25);
+}
+
+/* Add a color to the active/current link */
+.navbar a.active {
+  color:  #122335;
+  background-color: #ffb27e;
+}
 
 body {
   padding: 0;
