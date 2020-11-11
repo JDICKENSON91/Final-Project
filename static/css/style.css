@@ -69,17 +69,18 @@
 
 .Chart5 {
   padding: 0;
-  margin-left: 8%;
-  margin-top: 5%;
+  top: 440px;
+  left: 100px;
+  width: 800px;
   position: absolute;
   transform: rotate(0deg);
-
 }
 
 .Chart6 {
   padding: 0;
-  margin-left: 44%;
-  margin-top: 22%;
+  top: 440px;
+  left: 850px;
+  width: 900px;
   position: absolute;
   transform: rotate(0deg);
 
@@ -150,8 +151,9 @@
 
 .Chart11 {
   padding: 0;
-  margin-left: 50%;
-  margin-top: 5%;
+  top: 75px;
+  left: 850px;
+  width: 900px;
   position: absolute;
   transform: rotate(0deg);
 
@@ -275,6 +277,42 @@
   top: 300px;
   left: 950px;
   width: 850px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.FamilyText1 {
+  padding: 0;
+  top: 75px;
+  left: 100px;
+  width: 650px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.FamilyText2 {
+  padding: 0;
+  top: 150px;
+  left: 100px;
+  width: 650px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.FamilyText3 {
+  padding: 0;
+  top: 250px;
+  left: 100px;
+  width: 650px;
   position: absolute;
   transform: rotate(0deg);
   color: #00c0ff;
