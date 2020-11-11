@@ -233,6 +233,129 @@
 
 }
 
+.Chart19 {
+  padding: 0;
+  top: 430px;
+  left: 1000px;
+  width: 900px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart20 {
+  padding: 0;
+  top: 75px;
+  left: 1150px;
+  width: 900px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+
+.Chart21 {
+  padding: 0;
+  top: 75px;
+  left: 100px;
+  width: 1100px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+
+.Chart22 {
+  padding: 0;
+  top: 430px;
+  left: 500px;
+  width: 500px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart23 {
+  padding: 0;
+  top: 75px;
+  left: 100px;
+  width: 1100px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart24 {
+  padding: 0;
+  top: 75px;
+  left: 1150px;
+  width: 900px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart25 {
+  padding: 0;
+  top: 440px;
+  left: 650px;
+  width: 1200px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+
+.EmpText1 {
+  padding: 0;
+  top: 450px;
+  left: 110px;
+  width: 375px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 21px;
+}
+
+.EmpText2 {
+  padding: 0;
+  top: 650px;
+  left: 110px;
+  width: 375px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 21px;
+}
+
+.IncText1 {
+  padding: 0;
+  top: 450px;
+  left: 110px;
+  width: 450px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 21px;
+}
+
+.IncText2 {
+  padding: 0;
+  top: 650px;
+  left: 110px;
+  width: 450px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 21px;
+}
+
+
+
 .EduText1 {
   padding: 0;
   top: 450px;
