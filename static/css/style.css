@@ -202,6 +202,60 @@
 }
 
 
+.Chart16 {
+  padding: 0;
+  top: 75px;
+  left: 100px;
+  width: 900px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart17 {
+  padding: 0;
+  top: 75px;
+  left: 950px;
+  width: 900px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+
+.Chart18 {
+  padding: 0;
+  top: 450px;
+  left: 100px;
+  width: 1200px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.EduText1 {
+  padding: 0;
+  top: 450px;
+  left: 1200px;
+  width: 600px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 22px;
+}
+
+.EduText2 {
+  padding: 0;
+  top: 600px;
+  left: 1200px;
+  width: 600px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 22px;
+}
 
 
 .ParaText1 {
@@ -341,7 +395,7 @@
 .Suburb_List {
   padding: 0;
   top: 625px;
-  left: 500px;
+  left: 600px;
   width: 300px;
   position: absolute;
   transform: rotate(0deg);
@@ -353,7 +407,7 @@
 .Suburb_List2 {
   padding: 0;
   top: 625px;
-  left: 900px;
+  left: 1000px;
   width: 300px;
   position: absolute;
   transform: rotate(0deg);
