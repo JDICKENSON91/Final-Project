@@ -345,6 +345,110 @@
 
 }
 
+.Chart30 {
+  padding: 0;
+  top: 50px;
+  left: 950px;
+  width: 1050px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.Chart31 {
+  padding: 0;
+  top: 300px;
+  left: 100px;
+  width: 1050px;
+  position: absolute;
+  transform: rotate(0deg);
+
+}
+
+.HappyText1 {
+  padding: 0;
+  top: 75px;
+  left: 110px;
+  width: 850px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.HappyText2 {
+  padding: 0;
+  top: 550px;
+  left: 1000px;
+  width: 800px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.HappyText3 {
+  padding: 0;
+  top: 650px;
+  left: 1000px;
+  width: 800px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.HappyText4 {
+  padding: 0;
+  top: 725px;
+  left: 1000px;
+  width: 800px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.Happy_List {
+  padding: 0;
+  top: 135px;
+  left: 110px;
+  width: 300px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #ffb27e;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.Happy_List2 {
+  padding: 0;
+  top: 135px;
+  left: 410px;
+  width: 300px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #ffb27e;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.Happy_List3 {
+  padding: 0;
+  top: 135px;
+  left: 670px;
+  width: 300px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #ffb27e;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
 .HouseText1 {
   padding: 0;
   top: 75px;
@@ -368,6 +472,8 @@
   font-family: 'Lato';
   font-size: 20px;
 }
+
+
 
 .EmpText1 {
   padding: 0;
@@ -699,13 +805,13 @@
 
 
 .navbar {
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 0%;
+  margin-right: 0%;
   background-color: #122335;
   overflow: hidden;
   position: fixed;
   bottom: 0;
-  width: 80%;
+  width: 100%;
 }
 
 /* Style the links inside the navigation bar */
