@@ -413,6 +413,164 @@
   font-size: 20px;
 }
 
+.IndexText1 {
+  padding: 0;
+  top: 200px;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 70px;
+  text-align: center;
+}
+
+.IndexText2 {
+  padding: 0;
+  top: 300px;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 30px;
+  text-align: center;
+}
+
+.IndexText3 {
+  padding: 0;
+  top: 500px;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #ffb27e;
+  font-family: 'Lato';
+  font-size: 36px;
+  text-align: center;
+}
+
+.LinkList {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  color: #00c0ff;
+  top: 0px;
+  left: auto;
+  right: 0;
+  width: 600px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #ffb27e;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.LinkItem {
+  float: left;
+}
+
+.LinkItem a {
+  display: block;
+  color: #00c0ff;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+
+.DataText1 {
+  padding: 0;
+  top: 75px;
+  left: 100px;
+  width: 600px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.DataText2 {
+  padding: 0;
+  top: 750px;
+  left: 100px;
+  width: 600px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.DataText3 {
+  padding: 0;
+  top: 150px;
+  left: 100px;
+  width: 500px;
+  position: absolute;
+  transform: rotate(0deg);
+  color:  #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.DataText4 {
+  padding: 0;
+  top: 150px;
+  left: 500px;
+  width: 400px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #ffb27e;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.DataText4:hover {
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.Data_List1 {
+  padding: 0;
+  top: 200px;
+  left: 110px;
+  width: 600px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #ffb27e;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.Data_List2 {
+  padding: 0;
+  top: 200px;
+  left: 700px;
+  width: 600px;
+  position: absolute;
+  transform: rotate(0deg);
+  color: #ffb27e;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+
+.ListHeader {
+  color: #00c0ff;
+  font-family: 'Lato';
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .Happy_List {
   padding: 0;
   top: 135px;
