@@ -755,6 +755,7 @@
 
 
 .Right_Arrow {
+  z-index: 100;
   padding: 0;
   top: 384px;
   right: 20px;
@@ -767,6 +768,7 @@
   transform: scale(1.25)
 }
 .Left_Arrow {
+  z-index: 100;
   padding: 0;
   top: 384px;
   left: 20px;
